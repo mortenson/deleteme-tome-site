@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d49d8d8a-4bcc-4c64-9593-9043c685cb79"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8137fa24-52f7-460d-a8aa-852ba655e442"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/if-monkeys-can-take-baths-so-can-you"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

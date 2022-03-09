@@ -1,0 +1,20 @@
+uuid: eae8ccad-02d6-48b2-8666-f76d823c88d8
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+_core:
+  default_config_hash: XP47FAkOJMK2yATS0brF-oD7046RwcDD3_8fsE9Zi_U
+name: Page
+type: page
+description: 'A standalone page that will not show up in frontend lists.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

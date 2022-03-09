@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
+langcode: en
+uuid: 7d328d39-930d-4309-bebf-1f710be292c0
+name: 'Sam''s great site'
+mail: admin@example.com
+slogan: 'A blogging profile for Tome users'
+page:
+  403: /403
+  404: /404
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
